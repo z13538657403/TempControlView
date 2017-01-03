@@ -31,3 +31,5 @@ tempControlView.setOnTempChangeListener(new TempControlView.OnTempChangeListener
 
 # 运行截图
 
+![image](https://github.com/z13538657403/TempControlView/blob/master/app/src/main/res/mipmap-xhdpi/temp.gif)
+
