@@ -19,6 +19,7 @@
     
 （2）在代码中设置最低温度，最高温度以及当前温度，并为该控件设置事件监听
 tempControlView.setTemp(10 , 70 , 20);
+
 tempControlView.setOnTempChangeListener(new TempControlView.OnTempChangeListener()
 {
      @Override
